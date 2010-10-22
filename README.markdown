@@ -1,4 +1,4 @@
-﻿## Description
+## Description
 jQuery Highlighter is a key words highlight plugin for jQuery.
 
 ----------
