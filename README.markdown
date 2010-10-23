@@ -1,7 +1,10 @@
 ## Description
 jQuery Highlighter is a key words highlight plugin for jQuery.
 
-----------
+## Main Futures
+1. Support for multiple keywords.
+2. Can overlap between multiple keywords.
+3. Can cancel the highlighted keywords.
 
 ## Quick Start
 1. Include jQuery and the Highlighter plugin script file in your HTML page:
@@ -29,8 +32,6 @@ jQuery Highlighter is a key words highlight plugin for jQuery.
         
         // Cancel the highlighted keywords.
         $("#div_Text").unhighlight();
-
-----------
 
 ## Available Options
 The following list describes what options you have for the second argument of the method "highlight" (option object):
@@ -64,3 +65,10 @@ Default Value: true
 Specifies whether need the function of cancel the highlighted keywords or highlight keywords several times within the same container tag.  
 Data Type: Boolean  
 Default Value: false
+
+## License
+This plugin is licensed under the CDDL v1.0. You can find the full license text here: http://www.opensource.org/licenses/cddl1.txt.
+
+## Contact Information
+E-Mail: XuJin.Net@Gmail.COM  
+QQ: 22492791

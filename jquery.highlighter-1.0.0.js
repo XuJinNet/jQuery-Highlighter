@@ -1,4 +1,7 @@
 /**
+ * This plugin is licensed under the CDDL v1.0.
+ * You can find the full license text here: http://www.opensource.org/licenses/cddl1.txt.
+ * 
  * jQuery Text Highlighter Plugin
  * v1.0.0
  * Author: Xu Jin
