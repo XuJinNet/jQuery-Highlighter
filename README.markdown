@@ -21,7 +21,7 @@ jQuery Highlighter is a key words highlight plugin for jQuery.
         </script>
 
 5. Use your favorite browser to view this page, you will see the keywords are marked red.
-6. If you want to cancel the highlighted keywords:
+6. If you want to cancel the highlighted keywords or need to highlight keywords several times within the same container tag:
 
         // Highlight key words.
         // Note the second argument.
@@ -61,6 +61,6 @@ Data Type: Boolean
 Default Value: true
 
 **needUnhighlight**  
-Specifies whether need the function of cancel the highlighted keywords.  
+Specifies whether need the function of cancel the highlighted keywords or highlight keywords several times within the same container tag.  
 Data Type: Boolean  
 Default Value: false
