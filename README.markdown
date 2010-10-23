@@ -1,5 +1,6 @@
 ## Description
-jQuery Highlighter is a key words highlight plugin for jQuery.
+jQuery Highlighter is a key words highlight plugin for jQuery.  
+Online test page: <http://xujinnet.github.com/jQuery-Highlighter/jQuery-Highlighter-Test-Page.html>
 
 ## Main Futures
 1. Support for multiple keywords.
