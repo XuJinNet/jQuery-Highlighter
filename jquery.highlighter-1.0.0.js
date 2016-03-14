@@ -51,6 +51,7 @@ jQuery.fn.highlight = function(keyWords, options) {
 	    keyWordArray = keyWords.split(settings.separator);
 	else if(jQuery.isArray(keyWords))
 	    keyWordArray = keyWords;
+	else keyWordArray = [keyWords];
 	    
     for(var i = 0; i < keyWordArray.length; i++)
     {
