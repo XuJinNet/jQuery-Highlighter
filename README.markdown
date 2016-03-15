@@ -71,5 +71,5 @@ Default Value: false
 This plugin is licensed under the CDDL v1.0. You can find the full license text here: http://www.opensource.org/licenses/cddl1.txt.
 
 ## Contact Information
-E-Mail: XuJin.Net@Gmail.COM  
+E-Mail: xujin.net@qq.com
 QQ: 22492791
